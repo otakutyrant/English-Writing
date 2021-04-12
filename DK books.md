@@ -28,3 +28,5 @@ be careful for sb/sth because they may are dangers or problems
 # the period table
 
 # a game called sth
+
+# at all, after all, all right
