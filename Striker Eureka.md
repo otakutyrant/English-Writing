@@ -16,4 +16,10 @@ Mindset is a general attitude, or assumptions towards something. For example, be
 
 # may not be
 
-TODO
+"may be" and "may not be" are typical collocations.
+
+# may not
+
+"I may not come here again." expresses a possibility.
+
+As sometimes "may" is used to make request or offers politely, "may not" means "you do not have permission" as polite prohibition: You may not use this things. In order to be distinct from this usage, you may use "might not" instead.
